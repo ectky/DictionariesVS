@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\ForumTopics\obj\Debug\ForumTopics.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\ForumTopics\bin\Debug\ForumTopics.exe.config
+D:\VSProjects\Dictionaries\ForumTopics\bin\Debug\ForumTopics.exe
+D:\VSProjects\Dictionaries\ForumTopics\bin\Debug\ForumTopics.pdb
+D:\VSProjects\Dictionaries\ForumTopics\obj\Debug\ForumTopics.exe
+D:\VSProjects\Dictionaries\ForumTopics\obj\Debug\ForumTopics.pdb

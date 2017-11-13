@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\ExamShopping\bin\Debug\ExamShopping.exe.config
+D:\VSProjects\Dictionaries\ExamShopping\bin\Debug\ExamShopping.exe
+D:\VSProjects\Dictionaries\ExamShopping\bin\Debug\ExamShopping.pdb
+D:\VSProjects\Dictionaries\ExamShopping\obj\Debug\ExamShopping.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\ExamShopping\obj\Debug\ExamShopping.exe
+D:\VSProjects\Dictionaries\ExamShopping\obj\Debug\ExamShopping.pdb

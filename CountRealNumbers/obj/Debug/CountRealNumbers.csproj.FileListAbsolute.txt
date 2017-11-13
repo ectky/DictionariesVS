@@ -1,0 +1,5 @@
+D:\VSProjects\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+D:\VSProjects\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+D:\VSProjects\Dictionaries\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+D:\VSProjects\Dictionaries\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+D:\VSProjects\Dictionaries\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

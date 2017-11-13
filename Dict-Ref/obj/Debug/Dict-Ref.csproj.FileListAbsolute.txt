@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.exe.config
+D:\VSProjects\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.exe
+D:\VSProjects\Dictionaries\Dict-Ref\bin\Debug\Dict-Ref.pdb
+D:\VSProjects\Dictionaries\Dict-Ref\obj\Debug\Dict-Ref.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\Dict-Ref\obj\Debug\Dict-Ref.exe
+D:\VSProjects\Dictionaries\Dict-Ref\obj\Debug\Dict-Ref.pdb

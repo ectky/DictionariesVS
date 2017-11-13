@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\FilterBase\bin\Debug\FilterBase.exe.config
+D:\VSProjects\Dictionaries\FilterBase\bin\Debug\FilterBase.exe
+D:\VSProjects\Dictionaries\FilterBase\bin\Debug\FilterBase.pdb
+D:\VSProjects\Dictionaries\FilterBase\obj\Debug\FilterBase.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\FilterBase\obj\Debug\FilterBase.exe
+D:\VSProjects\Dictionaries\FilterBase\obj\Debug\FilterBase.pdb
