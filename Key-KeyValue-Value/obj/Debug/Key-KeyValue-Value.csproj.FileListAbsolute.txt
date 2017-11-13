@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\bin\Debug\Key-KeyValue-Value.exe.config
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\bin\Debug\Key-KeyValue-Value.exe
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\bin\Debug\Key-KeyValue-Value.pdb
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\obj\Debug\Key-KeyValue-Value.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\obj\Debug\Key-KeyValue-Value.exe
+D:\VSProjects\Dictionaries\Key-KeyValue-Value\obj\Debug\Key-KeyValue-Value.pdb

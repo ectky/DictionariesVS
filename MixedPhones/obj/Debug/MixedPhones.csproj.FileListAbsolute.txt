@@ -1,0 +1,5 @@
+D:\VSProjects\Dictionaries\MixedPhones\bin\Debug\MixedPhones.exe.config
+D:\VSProjects\Dictionaries\MixedPhones\bin\Debug\MixedPhones.exe
+D:\VSProjects\Dictionaries\MixedPhones\bin\Debug\MixedPhones.pdb
+D:\VSProjects\Dictionaries\MixedPhones\obj\Debug\MixedPhones.exe
+D:\VSProjects\Dictionaries\MixedPhones\obj\Debug\MixedPhones.pdb

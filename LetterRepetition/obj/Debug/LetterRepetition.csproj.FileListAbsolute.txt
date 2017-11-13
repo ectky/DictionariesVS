@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.exe.config
+D:\VSProjects\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.exe
+D:\VSProjects\Dictionaries\LetterRepetition\bin\Debug\LetterRepetition.pdb
+D:\VSProjects\Dictionaries\LetterRepetition\obj\Debug\LetterRepetition.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\LetterRepetition\obj\Debug\LetterRepetition.exe
+D:\VSProjects\Dictionaries\LetterRepetition\obj\Debug\LetterRepetition.pdb

@@ -1,0 +1,5 @@
+D:\VSProjects\Dictionaries\Shellbound\bin\Debug\Shellbound.exe.config
+D:\VSProjects\Dictionaries\Shellbound\bin\Debug\Shellbound.exe
+D:\VSProjects\Dictionaries\Shellbound\bin\Debug\Shellbound.pdb
+D:\VSProjects\Dictionaries\Shellbound\obj\Debug\Shellbound.exe
+D:\VSProjects\Dictionaries\Shellbound\obj\Debug\Shellbound.pdb

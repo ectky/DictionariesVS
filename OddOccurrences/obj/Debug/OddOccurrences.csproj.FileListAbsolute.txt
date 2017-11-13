@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+D:\VSProjects\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.exe
+D:\VSProjects\Dictionaries\OddOccurrences\bin\Debug\OddOccurrences.pdb
+D:\VSProjects\Dictionaries\OddOccurrences\obj\Debug\OddOccurrences.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\OddOccurrences\obj\Debug\OddOccurrences.exe
+D:\VSProjects\Dictionaries\OddOccurrences\obj\Debug\OddOccurrences.pdb
