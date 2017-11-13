@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\TravelCompany\bin\Debug\TravelCompany.exe.config
+D:\VSProjects\Dictionaries\TravelCompany\bin\Debug\TravelCompany.exe
+D:\VSProjects\Dictionaries\TravelCompany\bin\Debug\TravelCompany.pdb
+D:\VSProjects\Dictionaries\TravelCompany\obj\Debug\TravelCompany.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\TravelCompany\obj\Debug\TravelCompany.exe
+D:\VSProjects\Dictionaries\TravelCompany\obj\Debug\TravelCompany.pdb

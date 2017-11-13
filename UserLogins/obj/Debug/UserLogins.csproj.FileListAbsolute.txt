@@ -1,0 +1,5 @@
+D:\VSProjects\Dictionaries\UserLogins\bin\Debug\UserLogins.exe.config
+D:\VSProjects\Dictionaries\UserLogins\bin\Debug\UserLogins.exe
+D:\VSProjects\Dictionaries\UserLogins\bin\Debug\UserLogins.pdb
+D:\VSProjects\Dictionaries\UserLogins\obj\Debug\UserLogins.exe
+D:\VSProjects\Dictionaries\UserLogins\obj\Debug\UserLogins.pdb

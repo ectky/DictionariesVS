@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe.config
+D:\VSProjects\Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe
+D:\VSProjects\Dictionaries\SocialMediaPosts\bin\Debug\SocialMediaPosts.pdb
+D:\VSProjects\Dictionaries\SocialMediaPosts\obj\Debug\SocialMediaPosts.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\SocialMediaPosts\obj\Debug\SocialMediaPosts.exe
+D:\VSProjects\Dictionaries\SocialMediaPosts\obj\Debug\SocialMediaPosts.pdb

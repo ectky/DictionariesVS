@@ -1,0 +1,6 @@
+D:\VSProjects\Dictionaries\Wardrobe\bin\Debug\Wardrobe.exe.config
+D:\VSProjects\Dictionaries\Wardrobe\bin\Debug\Wardrobe.exe
+D:\VSProjects\Dictionaries\Wardrobe\bin\Debug\Wardrobe.pdb
+D:\VSProjects\Dictionaries\Wardrobe\obj\Debug\Wardrobe.csprojResolveAssemblyReference.cache
+D:\VSProjects\Dictionaries\Wardrobe\obj\Debug\Wardrobe.exe
+D:\VSProjects\Dictionaries\Wardrobe\obj\Debug\Wardrobe.pdb
